@@ -1,1 +1,1 @@
-# Bienvenue sur le repository des formations de Centrale IA !
+# Bienvenue aux formations de Centrale IA !
