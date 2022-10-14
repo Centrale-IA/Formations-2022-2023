@@ -1,0 +1,1 @@
+# Bienvenue sur le repository des formations de Centrale IA !
