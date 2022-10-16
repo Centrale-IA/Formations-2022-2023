@@ -1,1 +1,0 @@
-# Bienvenue aux formations de Centrale IA !
